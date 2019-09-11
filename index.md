@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to NattyMojo's Page
+
+# This is my first addition 
 
 You can use the [editor on GitHub](https://github.com/NattyMojo/Nattymojo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
